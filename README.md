@@ -1,3 +1,5 @@
 # funky-python
 
-just for play.
+I cant't speak English.  /n just for play.
+
+(Translated by google)

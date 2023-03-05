@@ -1,6 +1,9 @@
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox as mb
+import random
+import os
+import sys
 
 
 
@@ -8,6 +11,13 @@ a = 'aua'
 
 
 class cricket_jar:
+    def __init__(self):
+        pass
+
+    def visualabie(self):
+        pass
+
+class cricket:
     def __init__(self):
         pass
 
