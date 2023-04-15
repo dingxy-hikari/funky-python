@@ -23,3 +23,12 @@ class cricket:
 
 if __name__ == "__main__":
     print(a)
+
+
+"""
+def ctrl():
+    ctrl_base = 5
+    ctrl_pd = random.randint(0,100)
+    if ctrl_pd <= 5:
+        ctrl_bool = True
+"""
