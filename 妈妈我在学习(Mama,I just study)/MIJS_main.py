@@ -2,9 +2,9 @@ import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox as mgb
 import os
-import sys
 import keyboard
 import win32api
+import sys
 from PIL import ImageTk
 
 screensize_X = win32api.GetSystemMetrics(0)
@@ -21,8 +21,8 @@ class Starter:
         pass
 
 
-# WarningMessagesDisplayModel
-class WMDM:
+# StudyThingsDisPlayModel
+class STDM:
     def __init__(self):
         self.root = tk.Tk()
         self.image = None
@@ -76,7 +76,7 @@ def fvck():
     quit('sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss')
 
 def main():
-    a = WMDM()
+    a = STDM()
     a.main()
 
 
