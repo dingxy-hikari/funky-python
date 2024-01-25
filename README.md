@@ -22,12 +22,14 @@
     (Buddha bless no more bugs in programs and codes here)
 
 
-I cant't speak English.  
+I can speak simple English.   
+I recognize all hiraganas and katakanas.  
+I'm learning these languages.  
 /n just for play.
 
 
 WARNING:  
-The warehouse has been abandoned  
+The repository has been abandoned  
   reason:
 
 
