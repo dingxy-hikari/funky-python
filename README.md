@@ -1,4 +1,6 @@
 # funky-python
+(Personal)
+
                       _oo0oo_
                      o8888888o
                      88" . "88
@@ -19,7 +21,8 @@
                       `=---='
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
               佛祖保佑         永无BUG  
-    (Buddha bless no more bugs in programs and codes here)
+           Buddha bless no more bugs in 
+              programs and codes here
 
 
 I can speak simple English.   
